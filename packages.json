@@ -1,18 +1,18 @@
 [
     {
-        "package": "ade4",
+        "package": "adeverse/ade4",
         "url": "https://github.com/adeverse/ade4"
     },
     {
-        "package": "ade4TkGUI",
+        "package": "adeverse/ade4TkGUI",
         "url": "https://github.com/adeverse/ade4TkGUI"
     },
     {
-        "package": "ade4shiny",
+        "package": "adeverse/ade4shiny",
         "url": "https://github.com/adeverse/ade4shiny"
     },
     {
-        "package": "adegraphics",
+        "package": "adeverse/adegraphics",
         "url": "https://github.com/adeverse/adegraphics"
     }
 ]
