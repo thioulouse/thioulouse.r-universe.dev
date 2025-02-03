@@ -8,6 +8,14 @@
         "url": "https://github.com/adeverse/ade4TkGUI"
     },
     {
+        "package": "adephylo",
+        "url": "https://github.com/adeverse/adephylo"
+    },
+    {
+        "package": "adespatial",
+        "url": "https://github.com/adeverse/adespatial"
+    },
+    {
         "package": "adegraphics",
         "url": "https://github.com/adeverse/adegraphics"
     }
